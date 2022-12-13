@@ -56,19 +56,18 @@
 
 /*spacing*/
 
-.skills, .work 
 
-{padding: 2cm;}
-
-.work
-
-{padding-bottom: 5cm;}
+.container  {
+    padding-bottom: 1.5cm;
+    padding-top: 0.5cm ;
+}
 
 
 .social {
 
     text-align:center;
 }
+
 
 /*effects*/
 
@@ -81,3 +80,15 @@ a:hover {
     background-color: rgb(189, 122, 252);
  }
 
+ /*footer*/
+
+footer
+
+{text-align: end;}
+
+/*media*/
+
+@media screen and (max-width: 600px) {
+    .container {
+      width: 100%;
+    }
