@@ -18,6 +18,6 @@ wiacek.mariusz@gmail.com
 
 ## Screenshot
 
-![screenshot](images/screenshot.png)
+![screenshot](../images/screenshot.png)
 
 
